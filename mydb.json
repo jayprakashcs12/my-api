@@ -1,0 +1,31 @@
+{
+    "contact": [
+        {
+            "fname": "Surendra Singh",
+            "date": "30/09/1967",
+            "mobile": "+91-8963257140",
+            "email": "surendra@gmail.com",
+            "password": "987136",
+            "address": "Prayagraj",
+            "id": 1
+        },
+        {
+            "fname": "Jay Prakash Singh",
+            "date": "01/01/2000",
+            "mobile": "+91-8563001920",
+            "email": "jay@gmail.com",
+            "password": "12345",
+            "address": "Bengaluru",
+            "id": 2
+        },
+        {
+            "fname": "Vshwajeet Singh",
+            "date": "01/10/2003",
+            "mobile": "+91-8563001902",
+            "email": "vishwa@gmail.com",
+            "password": "25631",
+            "address": "Mohali",
+            "id": 3
+        }
+    ]
+}
